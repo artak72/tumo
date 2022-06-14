@@ -1,0 +1,1 @@
+{"uuid":"3219f193-bf29-427f-aaf3-06d64dd3ba3f","name":"AdminAreal","children":["c7870903-ca4a-412a-93bb-6552172de7cd"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"Browser's tear down","steps":[],"attachments":[],"parameters":[],"start":1645176218524,"stop":1645176220457}],"links":[],"start":1645176189696,"stop":1645176220458}
